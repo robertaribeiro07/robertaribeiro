@@ -10,8 +10,8 @@
 - [NodeJS](https://nodejs.org)
 - [Python](https://www.python.org)
 - [JavaScript](https://developer.mozilla.org)
-- [HTML] (www.w3schools.com)
-- [CSS] (www.w3schools.com)
+- [HTML] (https://www.w3schools.com)
+- [CSS] (https://www.w3schools.com)
 
 
 
