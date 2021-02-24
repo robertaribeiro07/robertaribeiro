@@ -13,4 +13,6 @@
 - [HTML/CSS] (www.w3schools.com)
 
 
-[![Linkedin](https://www.linkedin.com/in/robertaribeiro-691240b4?label=Linkedin)](https://www.linkedin.com/in/robertaribeiro-691240b4)
+
+
+(https://www.linkedin.com/in/robertaribeiro-691240b4) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">]
