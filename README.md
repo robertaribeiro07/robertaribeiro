@@ -15,11 +15,13 @@
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=robertaribeiro07&theme=blue-green)
 
+ <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+ robertaribeiro07@gmail.com 
+
  <img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&url=https://www.linkedin.com/in/robertaribeiro-691240b4">
  https://www.linkedin.com/in/robertaribeiro-691240b4
 
-<br>
 
- <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
- robertaribeiro07@gmail.com 
+
+
 
