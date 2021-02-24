@@ -15,4 +15,4 @@
 
 
 
-(https://www.linkedin.com/in/robertaribeiro-691240b4) [<img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white">]
+(https://www.linkedin.com/in/robertaribeiro-691240b4) <img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white">
