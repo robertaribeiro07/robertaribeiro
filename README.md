@@ -10,9 +10,10 @@
 - [NodeJS](https://nodejs.org)
 - [Python](https://www.python.org)
 - [JavaScript](https://developer.mozilla.org)
-- [HTML/CSS] (www.w3schools.com)
+- [HTML] (www.w3schools.com)
+- [CSS] (www.w3schools.com)
 
 
 
- <img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
-(https://www.linkedin.com/in/robertaribeiro-691240b4)
+(https://www.linkedin.com/in/robertaribeiro-691240b4) <img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+
