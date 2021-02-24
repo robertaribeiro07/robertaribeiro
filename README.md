@@ -13,7 +13,7 @@
 - [HTML](https://www.w3schools.com)
 - [CSS](https://www.w3schools.com)
 
-[forthebadge made-with-python]
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=robertaribeiro07&theme=blue-green)
 
 
 
