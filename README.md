@@ -10,6 +10,7 @@
 - [NodeJS](https://nodejs.org)
 - [Python](https://www.python.org)
 - [JavaScript](https://developer.mozilla.org)
-- [HTML/CSS]
+- [HTML/CSS] (www.w3schools.com)
 
-https://www.linkedin.com/in/robertaribeiro-691240b4?label=Linkedin&message=robertaribeiro&color=blue
+
+[![Linkedin](https://www.linkedin.com/in/robertaribeiro-691240b4?label=Linkedin)](https://www.linkedin.com/in/robertaribeiro-691240b4)
